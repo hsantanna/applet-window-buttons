@@ -2,6 +2,8 @@
 
 This is a Plasma 5 applet that shows window buttons in your panels. This plasmoid is coming from [Latte land](https://phabricator.kde.org/source/latte-dock/repository/master/) but it can also support Plasma panels.
 
+Este é um parágrafo de teste.
+
 <p align="center">
 <img src="https://i.imgur.com/4FItfte.gif" width="580"><br/>
 <i>slide in/out animation</i>
